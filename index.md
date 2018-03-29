@@ -1,9 +1,15 @@
-[![cloud7](thumbs/cloud7.gif)](fullPics/cloud7.JPG)
-
-![cloud7Text](thumbs/cloud7Text.gif)
-
 <p align="center">
-  <a href="fullPics/fontana.JPG" <img src="thumbs/fontana.gif"> </a>
+<a href="fullPics/cloud7.JPG"> <img src="thumbs/cloud7.gif"> </a>
 </p>
 
-![fontanaText](thumbs/fontanaText.gif)
+<p align="center">
+<img src="thumbs/cloud7.gif">
+</p>
+
+<p align="center">
+<a href="fullPics/fontana.JPG"> <img src="thumbs/fontana.gif"> </a>
+</p>
+
+<p align="center">
+<img src="thumbs/fontanaText.gif">
+</p>

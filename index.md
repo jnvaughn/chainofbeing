@@ -2,6 +2,8 @@
 
 ![cloud7Text](thumbs/cloud7Text.gif)
 
-[![fontana](thumbs/fontana.gif)](fullPics/fontana.JPG)
+<p align="center">
+  <a href="fullPics/fontana.JPG" <img src="thumbs/fontana.gif"> </a>
+</p>
 
 ![fontanaText](thumbs/fontanaText.gif)

@@ -4,4 +4,4 @@
 
 [![fontana](thumbs/fontana.gif)](fullPics/fontana.JPG)
 
-[![fontanaText](thumbs/fontanaText.gif)](fullPics/fontanaText.JPG)
+![fontanaText](thumbs/fontanaText.gif)

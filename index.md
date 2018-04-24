@@ -23,14 +23,6 @@
 </p>
 
 <p align="center">
-<a href="fullPics/vent.JPG"> <img src="thumbs/vent.gif"> </a>
-</p>
-
-<p align="center">
-<img src="thumbs/ventText.gif">
-</p>
-
-<p align="center">
 <a href="fullPics/trickArrow.JPG"> <img src="thumbs/trickArrow.gif"> </a>
 </p>
 

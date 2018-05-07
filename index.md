@@ -18,11 +18,10 @@
 <p align="center">
 <img src="thumbs/buttText.gif">
 </p>
-
+<p> <br /> </p>
 <p align="center">
 <a href="fullPics/trickArrow.JPG"> <img src="thumbs/trickArrow.gif"> </a>
 </p>
-
 <p align="center">
 <img src="thumbs/trickArrowText.gif">
 </p>

@@ -25,3 +25,10 @@
 <p align="center">
 <img src="thumbs/trickArrowText.gif">
 </p>
+<p> <br /> </p>
+<p align="center">
+<a href="fullPics/vent.JPG"> <img src="thumbs/vent.gif"> </a>
+</p>
+<p align="center">
+<img src="thumbs/ventText.gif">
+</p>

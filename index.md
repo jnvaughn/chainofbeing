@@ -4,3 +4,7 @@
 ### Mr. and Miss. Vaughn
 <a href="./mmVaughn/mmVaughn.md"> <img src="./tiles/mmVaughnTile.jpg"> </a>
 
+### test page
+
+<a href="./pages/test.md"> <img src="./tiles/mmVaughnTile.jpg"> </a>
+

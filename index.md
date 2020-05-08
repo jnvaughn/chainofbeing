@@ -1,6 +1,6 @@
 ### Surface Art
 <p align="center">
-<a href="surfaceArt/surfaceArt.md"> <img src="tiles/surfaceArtTile.jpg"> </a>
+<a href="surfaceArt/surfaceArt.md"> <img src="tiles/surfaceArtTiles.jpg"> </a>
 </p>
 
 ### Mr. and Miss. Vaughn

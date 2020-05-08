@@ -5,7 +5,6 @@
 ##### vocals: Sara Vaughn
 ##### Samples from assorted works by Duke Ellington, Brian Eno, Charlie Parker, and Charles Mingus
 
-
 <img src="saraThumb.jpeg"> </a>
 
 photo by Carl Martin

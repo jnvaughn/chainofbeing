@@ -3,12 +3,7 @@
 #### "Well, there's no such thing as a flat surface: it's only a theory. "
 ##### - David Hockney from Hockney on "Art"
 
-<p align="center">
-<a href="fullPics/cloud7.JPG"> <img src="thumbs/cloud7.gif"> </a>
-</p>
-<p align="center">
-<img src="thumbs/cloud7Text.gif">
-</p>
+
 <p> <br /> </p>
 <p align="center">
 <a href="fullPics/fontana.JPG"> <img src="thumbs/fontana.gif"> </a>
@@ -36,4 +31,11 @@
 </p>
 <p align="center">
 <img src="thumbs/ventText.gif">
+</p>
+<p> <br /> </p>
+<p align="center">
+<a href="fullPics/cloud7.JPG"> <img src="thumbs/cloud7.gif"> </a>
+</p>
+<p align="center">
+<img src="thumbs/cloud7Text.gif">
 </p>

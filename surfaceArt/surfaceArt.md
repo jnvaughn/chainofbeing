@@ -1,11 +1,7 @@
-<p align="center">
-
 ### Surface Art
 
 #### "Well, there's no such thing as a flat surface: it's only a theory. "
 ##### - David Hockney from Hockney on "Art"
-
-</p>
 
 <p align="center">
 <a href="fullPics/cloud7.JPG"> <img src="thumbs/cloud7.gif"> </a>

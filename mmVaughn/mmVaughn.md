@@ -1,5 +1,3 @@
-<p align="center">
-  
 ### Mr. and Miss. Vaughn
 
 [Listen to it](mmVaughn.mp3)
@@ -12,7 +10,6 @@
 
 photo by Carl Martin
 
-</p>
 
 
 

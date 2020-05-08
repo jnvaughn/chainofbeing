@@ -1,10 +1,7 @@
 ### Surface Art
-<a href="./surfaceArt/surfaceArt.md"> <img src="./tiles/surfaceArtTiles.jpg"> </a>
+<a href="./surfaceArt/surfaceArt"> <img src="./tiles/surfaceArtTiles.jpg"> </a>
 
 ### Mr. and Miss. Vaughn
-<a href="./mmVaughn/mmVaughn.md"> <img src="./tiles/mmVaughnTile.jpg"> </a>
+<a href="./mmVaughn/mmVaughn"> <img src="./tiles/mmVaughnTile.jpg"> </a>
 
-### test page
-
-<a href="./pages/test.md"> <img src="./tiles/mmVaughnTile.jpg"> </a>
 

@@ -1,4 +1,4 @@
-### Surface Art
+### Theory of Surface
 <a href="./surfaceArt/surfaceArt"> <img src="./tiles/surfaceArtTiles.jpg"> </a>
 
 ### Mr. and Miss. Vaughn

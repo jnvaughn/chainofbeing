@@ -5,3 +5,6 @@
 <a href="./mmVaughn/mmVaughn"> <img src="./tiles/mmVaughnTile.jpg"> </a>
 
 
+
+Unless otherwise accredited, chainofbeing.org hold copyright on all content herein.
+

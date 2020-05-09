@@ -3,8 +3,10 @@
 
 ### Mr. and Miss. Vaughn
 <a href="./mmVaughn/mmVaughn"> <img src="./tiles/mmVaughnTile.jpg"> </a>
-
-
-
+<p> <br /> </p>
+<p> <br /> </p>
+<p> <br /> </p>
+<p> <br /> </p>
+<p> <br /> </p>
 Unless otherwise accredited, chainofbeing.org hold copyright on all content herein.
 

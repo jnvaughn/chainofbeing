@@ -8,5 +8,5 @@
 <p> <br /> </p>
 <p> <br /> </p>
 <p> <br /> </p>
-Unless otherwise accredited, chainofbeing.org hold copyright on all content herein.
+Please contact at contact@chainofbeing.org with questions or comments.  Unless otherwise accredited, chainofbeing.org holds copyright on all content herein.
 

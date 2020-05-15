@@ -17,6 +17,7 @@ Audio samples from assorted works by Duke Ellington, Brian Eno, Charlie Parker, 
   <summary markdown='span'>"We don't play . . ."</summary>
 
 ~~~ text
+
 We don't play The Beach Boys
 	at the beach.
 We wake early,
@@ -53,6 +54,7 @@ But like we beach-goers
 Straining against the day's brilliance,
 He was just scouting short-cuts
 To a deeper joy.
+
 ~~~~
 
 </details>
@@ -62,6 +64,7 @@ To a deeper joy.
   <summary markdown='span'>"We parallel a . . ."</summary>
 
 ~~~ text
+
 We parallel a wall-cloud in the Thunderbird.
 At this clip, we'll out-pace the word
 That hovers on waters.
@@ -90,6 +93,7 @@ We are still blanks of the lathe.
 I concede then protest. 
 We are drag in the great swathe
 Of time.
+
 ~~~
 
 </details>

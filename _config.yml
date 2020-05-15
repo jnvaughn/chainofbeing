@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 title: chain of being
+markdown: kramdown
+kramdown:
+  parse_block_html: true

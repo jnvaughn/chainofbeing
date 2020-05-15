@@ -16,7 +16,7 @@ Audio samples from assorted works by Duke Ellington, Brian Eno, Charlie Parker, 
 <details>
   <summary>"We don't play . . ."</summary>
 
-~~~text
+~~~ text
 We don't play The Beach Boys
 	at the beach.
 We wake early,

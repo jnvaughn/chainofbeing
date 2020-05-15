@@ -14,7 +14,7 @@ Audio samples from assorted works by Duke Ellington, Brian Eno, Charlie Parker, 
 
 ##### [Charlie Parker at the Beach](CharlieParkerattheBeach.mp3)
 <details>
-  <summary>"We don't play . . ."</summary>
+  <summary markdown='span'>"We don't play . . ."</summary>
 
 ~~~ text
 We don't play The Beach Boys

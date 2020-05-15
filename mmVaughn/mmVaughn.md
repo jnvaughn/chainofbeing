@@ -59,7 +59,7 @@ To a deeper joy.
 
 ##### [Thunderbird](Thunderbird.mp3)
 <details>
-  <summary>"We parallel a . . ."</summary>
+  <summary markdown='span'>"We parallel a . . ."</summary>
 
 ~~~ text
 
@@ -98,7 +98,7 @@ Of time.
 
 ##### [The Details Surrounding Your Birth](TheDetailsSurroundingYourBirth.mp3)
 <details>
-  <summary>"Under the sky . . ."</summary>
+  <summary markdown='span'>"Under the sky . . ."</summary>
 
 ~~~ text
 
@@ -152,7 +152,7 @@ And casts our shadows on those behind.
 
 ##### [Form](Form.mp3)
 <details>
-  <summary>"Your form . . ."</summary>
+  <summary markdown='span'>"Your form . . ."</summary>
 
 ~~~ text
 
@@ -179,7 +179,7 @@ Through your arrow.
 
 ##### [Justice](Justice.mp3)
 <details>
-  <summary>"Ashes to ashes . . ."</summary>
+  <summary markdown='span'>"Ashes to ashes . . ."</summary>
 
 ~~~ text
 
@@ -229,7 +229,7 @@ When you grow up?”
 
 ##### [The Clock](TheClock.mp3)
 <details>
-  <summary>"I can see it . . ."</summary>
+  <summary markdown='span'>"I can see it . . ."</summary>
 
 ~~~ text
 
@@ -284,7 +284,7 @@ Tocs.
 
 ##### [Chain of Being](ChainofBeing.mp3)
 <details>
-  <summary>"The thunder . . ."</summary>
+  <summary markdown='span'>"The thunder . . ."</summary>
 
 ~~~ text
 

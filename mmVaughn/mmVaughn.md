@@ -61,7 +61,7 @@ To a deeper joy.
 <details>
   <summary>"We parallel a . . ."</summary>
 
-```text
+~~~ text
 
 We parallel a wall-cloud in the Thunderbird.
 At this clip, we'll out-pace the word
@@ -92,7 +92,7 @@ I concede then protest.
 We are drag in the great swathe
 Of time.
 
-```
+~~~
 
 </details>
 
@@ -100,7 +100,7 @@ Of time.
 <details>
   <summary>"Under the sky . . ."</summary>
 
-```text
+~~~ text
 
 Under the sky
 I change my skin 
@@ -146,7 +146,7 @@ Blink into this magic hour
 That outlines those up-ahead in gold light
 And casts our shadows on those behind.
 
-```
+~~~
 
 </details>
 
@@ -154,7 +154,7 @@ And casts our shadows on those behind.
 <details>
   <summary>"Your form . . ."</summary>
 
-```text
+~~~ text
 
 Your form,
 With his bow drawn,
@@ -173,7 +173,7 @@ Is another archer
 Unloading the full envelope of his energy
 Through your arrow.
 
-```
+~~~
 
 </details>
 
@@ -181,7 +181,7 @@ Through your arrow.
 <details>
   <summary>"Ashes to ashes . . ."</summary>
 
-```text
+~~~ text
 
 Ashes to ashes,
 Just to just.
@@ -223,7 +223,7 @@ When you grow up?”
 	- Just.
 
 
-```
+~~~
 
 </details>
 
@@ -231,7 +231,7 @@ When you grow up?”
 <details>
   <summary>"I can see it . . ."</summary>
 
-```text
+~~~ text
 
 I can see it so much better
 When it
@@ -278,7 +278,7 @@ And check you for ticks
 
 Tocs.
 
-```
+~~~
 
 </details>
 
@@ -286,7 +286,7 @@ Tocs.
 <details>
   <summary>"The thunder . . ."</summary>
 
-```text
+~~~ text
 
 The thunder, my love,
 Will shake the poetry
@@ -324,7 +324,7 @@ Memories and bugs
 	-Rivers and cities
 On to the next life.
 
-```
+~~~
 
 </details>
 

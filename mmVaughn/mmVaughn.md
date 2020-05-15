@@ -1,6 +1,4 @@
-### Mr. and Miss. Vaughn
-
-### [Listen to it](mmVaughn.mp3)
+### Mr. and Miss. Vaughn [(Listen)](mmVaughn.mp3)
 
 <img src="saraThumb.jpeg">
 

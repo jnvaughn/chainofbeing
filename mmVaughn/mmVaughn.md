@@ -62,7 +62,6 @@ To a deeper joy.
   <summary markdown='span'>"We parallel a . . ."</summary>
 
 ~~~ text
-
 We parallel a wall-cloud in the Thunderbird.
 At this clip, we'll out-pace the word
 That hovers on waters.
@@ -91,7 +90,6 @@ We are still blanks of the lathe.
 I concede then protest. 
 We are drag in the great swathe
 Of time.
-
 ~~~
 
 </details>

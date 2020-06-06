@@ -251,13 +251,7 @@ the clock
 They can't keep reality
 Any more than Autumn can
 
-the clock
-
-Cesium, love
-Quartz, hunger
-Springs, reflex
-the clock
-Water, gravity
+The clock
 
 The gut-reckoned ratio
 Between living a thousand years

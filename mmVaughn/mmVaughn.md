@@ -265,10 +265,10 @@ There will always be Yale
 
 the clock
 
-I remove your blouse
-Your skirt, brassiere, and panties
+You remove my blouse
+My skirt, brassiere, and panties
 the clock 
-And check you for ticks
+And check me for ticks
 
 Tocs.
 

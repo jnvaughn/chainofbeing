@@ -191,7 +191,7 @@ Where there’s just enough;
 
 Just enough water to make some seed;
 Just enough scratch to make it bleed;
-Just enough salt to get us by;
+Just enough salt to keep us dry;
 Just enough hope to get us high.
 
 I just want to clean-up after people 

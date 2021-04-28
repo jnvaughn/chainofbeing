@@ -208,7 +208,7 @@ Even if it’s wrong;
 
 Just to be a lawyer, who knows the rule,
 Or a doctor, maybe,
-Or a fool;
+Or the Fool;
 
 Just to be conscious of the Heraclitian struggle
 Of every atom to exist

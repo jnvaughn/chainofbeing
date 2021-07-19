@@ -6,7 +6,7 @@
 
 Photo by Carl Martin published in *[Carl Martin](http://lenscratch.com/2018/11/carl-martin-an-eponymous-book-of-photography/)*
 
-Audio samples from assorted works by Duke Ellington, Brian Eno, Charlie Parker, and Charles Mingus
+Audio samples from assorted works by Duke Ellington, Charlie Parker, and Charles Mingus
 
 #### "Mr. and Miss. Vaughn" is a [continuous piece](mmVaughn.mp3), but individul tracks can be accessed below.  Click on title to play and arrow to see lyrics.
 

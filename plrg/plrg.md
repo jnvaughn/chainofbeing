@@ -8,6 +8,9 @@
 
 The group is currently building a core membership and evaluating meeting locations.  Once established, we will hold monthly discussions focused on a single pattern, particularly as it relates to the local community.  A changing moderator will guide each month’s discussion.  Please contact us with questions or to express interest: <plrg@chainofbeing.org>.
 
+#### Participating communities
+
+Athens, GA, USA + When: Second Tuesday of each month + Where: TBA
 
 #### Other resources
 

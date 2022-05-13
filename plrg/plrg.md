@@ -10,7 +10,9 @@ The group is currently building a core membership and evaluating meeting locatio
 
 #### Participating communities
 
-Athens, GA, USA + When: Second Tuesday of each month + Where: TBA
+Athens, GA, USA
+When: Second Tuesday of each month
+Where: TBA
 
 #### Other resources
 

@@ -1,6 +1,6 @@
 ### Pattern Language Reading Group
 
-<img src="../../tiles/patternLangTile.png">
+<img src="../tiles/patternLangTile.png">
 
 “This seeming chaos which is in us is a rich, roiling, swelling, dying, lilting, singing, laughing, shouting, crying, sleeping order.  If we will only let this order guide our acts of building, the buildings that we make, the towns we help to make, will be the forests and the meadows of the human heart.”  - Chris Alexander, A Timeless Way of Building
 

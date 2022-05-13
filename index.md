@@ -1,5 +1,5 @@
 ### The Pattern Language Reading Group
-<a href="./plrg/plrg"> <img src="./tiles/plrgTile.png"> </a>
+<a href="./plrg/plrg"> <img src="./tiles/plrg.png"> </a>
 
 ### Mr. and Miss. Vaughn
 <a href="./mmVaughn/mmVaughn"> <img src="./tiles/mmVaughnTile.jpg"> </a>

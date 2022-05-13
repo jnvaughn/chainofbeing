@@ -1,8 +1,11 @@
-### Theory of Surface
-<a href="./surfaceArt/surfaceArt"> <img src="./tiles/surfaceArtTiles.jpg"> </a>
+### The Pattern Language Reading Group
+<a href="./plrg/plrg"> <img src="./tiles/plrgTile.png"> </a>
 
 ### Mr. and Miss. Vaughn
 <a href="./mmVaughn/mmVaughn"> <img src="./tiles/mmVaughnTile.jpg"> </a>
+
+### Theory of Surface
+<a href="./surfaceArt/surfaceArt"> <img src="./tiles/surfaceArtTiles.jpg"> </a>
 
 <p> <br /> </p>
 

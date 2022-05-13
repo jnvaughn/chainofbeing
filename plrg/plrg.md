@@ -15,4 +15,4 @@ The group is currently building a core membership and evaluating meeting locatio
 
 [Building Living Neighborhoods](http://www.livingneighborhoods.org/ht-0/bln-exp.htm) contains techniques and examples of how patterns can interface with conventional building codes and city planning.
 
-
+##### [See other chainofbeing.org projects](../index)

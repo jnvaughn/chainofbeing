@@ -1,4 +1,4 @@
-### Pattern Language Reading Group
+### The Pattern Language Reading Group
 
 <img src="../tiles/plrg.png">
 

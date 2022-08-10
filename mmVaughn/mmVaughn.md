@@ -1,4 +1,4 @@
-### Mr. and Miss. Vaughn [(Listen)](mmVaughn.mp3)
+### Mr. and Miss. Vaughn [\[Listen\]](mmVaughn.mp3)
 
 <img src="saraThumb.jpeg">
 
